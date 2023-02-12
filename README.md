@@ -1,15 +1,14 @@
 ## Mixbytes.Farm
-Simple educational boilerplate for hardhat                                                                                                             
+This repo contains sample contracts that describe solidity vulnerabilities and code attack patterns
 
 ## Installation        
-Solve installation problems by yourself using hardhat documentation. Here is the easiest way
 
 #### Install Node.JS 12+
 ```     
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 ```
 
-#### Clone test ```hardhat-farm``` repo with examples
+#### Clone repo with examples
 ```     
 git clone https://github.com/Nurnberg-Meistersinger/Mixbytes.Farm
 cd hardhat-farm
