@@ -1,23 +1,23 @@
-# hardhat-farm
+## Mixbytes.Farm
 Simple educational boilerplate for hardhat                                                                                                             
 
-# Installation        
+## Installation        
 Solve installation problems by yourself using hardhat documentation. Here is the easiest way
 
 #### Install Node.JS 12+
 ```     
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-```        
+```
+
 #### Clone test ```hardhat-farm``` repo with examples
 ```     
 git clone https://github.com/Nurnberg-Meistersinger/Mixbytes.Farm
 cd hardhat-farm
-npm install hardhat
-npm install
+yarn
 ```        
 #### Make tests run
 ```     
-npx harhdat test
+yarn harhdat test
 ```
 
 ## Work with repository
