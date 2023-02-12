@@ -10,7 +10,7 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 ```        
 #### Clone test ```hardhat-farm``` repo with examples
 ```     
-git clone https://github.com/mixbytes/hardhat-farm.git
+git clone https://github.com/Nurnberg-Meistersinger/Mixbytes.Farm
 cd hardhat-farm
 npm install hardhat
 npm install
